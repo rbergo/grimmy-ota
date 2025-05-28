@@ -1,0 +1,12 @@
+# PlatformIO
+.pio/
+.vscode/
+firmware*.bin
+firmware*.elf
+
+# Sensitive files (if used in the future)
+# src/wifi_credentials.h 
+
+# OS-specific
+.DS_Store
+Thumbs.db
